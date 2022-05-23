@@ -1,0 +1,14 @@
+﻿{
+  "ID": "0071670B2B674C0C928FA3E46EF38CF1",
+  "Disabled": false,
+  "ActionKeyword": "guid",
+  "Name": "Guid",
+  "Author": "rozbo",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/rozbo/PowerToys.Launcher.Plugin.GuidGenerater",
+  "ExecuteFileName": "PowerToys.Launcher.Plugin.GuidGenerater.dll",
+  "IsGlobal": false,
+  "IcoPathDark": "images\\logo.dark.png",
+  "IcoPathLight": "images\\logo.light.png"
+}
